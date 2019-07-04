@@ -1,5 +1,5 @@
 # Car Rental Company Project
-This is a simple Java Project that emulates the basic functions of a Car Rental Company. This project starts with initializations that are descripted in this Excel file. 
+This is a simple Java Project that emulates the basic functions of a Car Rental Company. This project starts with initializations that are descripted in [this](https://github.com/gfrangias/COMP102_Project3/blob/master/COMP102_Project3_Initializations.xlsx) Excel file. 
 
 ## Functions
 * Search Vehicle
