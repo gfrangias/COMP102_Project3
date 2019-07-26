@@ -20,5 +20,5 @@ This is a simple Java Project that emulates the basic functions of a Car Rental 
 * [Eclipse Java 2018-12](http://www.eclipse.org) - The IDE used
 
 ## Authors
-
 * **Georgios Frangias** - [gfrangias](https://github.com/gfrangias)
+***
